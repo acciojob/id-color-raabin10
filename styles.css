@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+
+
+#cc{
+	background:yellow;
+	width:100%;
+	border:1px solid;
+	border-color:green;
+	
+}
+#ccc{
+	background:red;
+	width:100%;
+	border:1px solid;
+	border-color: black;
+	
+}
+#cccc{
+	background:green;
+	width:100%;
+border:1px solid;
+	border-color: yellow;
+	
+}
